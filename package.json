@@ -1,0 +1,18 @@
+{
+  "name": "hh-localstorage",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[DlocalStorag\"\u001b[De工具\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\"\u001b[D\u0016https://github.com/hongsusu/hhlocalStorage\""
+  },
+  "keywords": [
+    "\"\"\u001b[DlocalStorage\""
+  ],
+  "author": "hongsusu",
+  "license": "ISC"
+}
