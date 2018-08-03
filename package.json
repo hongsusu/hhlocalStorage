@@ -1,6 +1,6 @@
 {
   "name": "hh-localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "localStorag工具",
   "main": "index.js",
   "scripts": {
