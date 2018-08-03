@@ -2,7 +2,7 @@
 
 [![hh-localstorage](https://img.shields.io/npm/v/hh-localstorage.svg)](https://www.npmjs.com/package/hh-localstorage)
 [![NPM downloads](http://img.shields.io/npm/dm/hh-localstorage.svg)](https://npmjs.com/package/hh-localstorage)
-[![Package Quality](http://npm.packagequality.com/shield/hh-localstorage.svg)](http://packagequality.com/#?package=hh-localstorage)
+[![Package Quality](http://npm.shields.com/packagequality/hh-localstorage.svg)](http://packagequality.com/#?package=hh-localstorage)
 
 1. 为什么用？
 
